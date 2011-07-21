@@ -1,0 +1,6 @@
+Revision history for Perl extension Roku::DVP::Remote.
+
+0.01  Wed Jul 20 19:05:13 2011
+	- original version; created by h2xs 1.23 with options
+		-XA -n Roku::DVP::Remote
+
